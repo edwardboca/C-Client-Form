@@ -1,0 +1,17 @@
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\bin\Debug\MidtermPart2.exe.config
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\bin\Debug\MidtermPart2.exe
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\bin\Debug\MidtermPart2.pdb
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.Properties.Resources.resources
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.csproj.GenerateResource.cache
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.csproj.CoreCompileInputs.cache
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.exe
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.pdb
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.csprojAssemblyReference.cache
+C:\Users\EDY\Desktop\midterm exam\MidtermPart2\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.GUI.FormClient.resources
+C:\Users\EDY\Desktop\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.csprojAssemblyReference.cache
+C:\Users\EDY\Desktop\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.GUI.FormClient.resources
+C:\Users\EDY\Desktop\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.Properties.Resources.resources
+C:\Users\EDY\Desktop\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.csproj.GenerateResource.cache
+C:\Users\EDY\Desktop\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.csproj.CoreCompileInputs.cache
+C:\Users\EDY\Desktop\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.exe
+C:\Users\EDY\Desktop\MidtermPart2\MidtermPart2\obj\Debug\MidtermPart2.pdb
